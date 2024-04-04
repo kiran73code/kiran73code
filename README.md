@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran C R</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Data Science tools and MLOPS**
+- 🌱 I’m currently learning ** MLOPS Best Practices and Tools..**
 
 - 📫 How to reach me **kirancr2000@gmail.com**
 
