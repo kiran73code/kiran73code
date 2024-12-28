@@ -10,7 +10,7 @@ A dedicated MLOps Engineer with 3 years of comprehensive experience in designing
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kiran73code&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiran73code&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran73code&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=Jupyter%20Notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran73code&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=Jupyter%20Notebook,CSS,HTML)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
